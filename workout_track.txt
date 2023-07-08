@@ -1,2 +1,1 @@
-
- Day: day1 | Workout: Chest_press | Weight: 50 | Reps: 12
+ Day: day2 | Workout: Rope_pushdown | Weight: 20 | Reps: 12
